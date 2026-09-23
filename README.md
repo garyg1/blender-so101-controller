@@ -2,9 +2,7 @@
 
 https://github.com/user-attachments/assets/23aaf50b-51aa-495b-b908-11ef2129ca8d
 
-This is a very simple proof of concept human/computer interface.
-
-It lets you use the SO-101 robotic arm (leader) as a camera controller for Blender.
+This is a very simple proof of concept human/computer interface. It uses the SO-101 robotic arm (leader) as a camera controller for Blender.
 
 It is an AI generated, human debugged script. (Geometry still challenges AI code generation.) This document and the install files are human authored.
 
